@@ -248,4 +248,7 @@ a{
 .footer .container .parts .right-p i{
     margin-right: 20px;
 }
+.footer .container .footer-span{
+    color:var(--main-color);
+}
 /* End Footer  */
